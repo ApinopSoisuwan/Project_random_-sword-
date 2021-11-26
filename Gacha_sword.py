@@ -19,7 +19,7 @@ else:
             print(gacha_sword())
             loop_sword += 1
         elif put_sword == "N":
-            print("Boom!!!# World has Fallen")
+            print("Boom!!!# World has Fallen" +"\n" + "press this,This gonna help you : "" https://youtu.be/dQw4w9WgXcQ")
             loop_sword += 1
         else:
             print("Roll again!!!" + "\n")
